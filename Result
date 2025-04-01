@@ -1,0 +1,16 @@
+<!DOCTYPE html><html>
+<head>
+    <title>GSEB 10th Result</title>
+    <style>
+        body { text-align: center; padding: 100px; font-size: 24px; }
+    </style>
+</head>
+<body>
+    <h1>Loading GSEB Result...</h1>
+    <script>
+        setTimeout(function() {
+            document.body.innerHTML = "<h1>APRIL FOOL! 😂</h1>";
+        }, 5000);
+    </script>
+</body>
+</html>
